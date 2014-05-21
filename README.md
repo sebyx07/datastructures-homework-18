@@ -15,3 +15,11 @@ player2: { id: 1235,
 ```
 
 So when a meeting is made player1 is inserted in player2 list and vice versa
+
+
+To run it you need Node
+
+```
+cd /lib
+node app.js
+```
