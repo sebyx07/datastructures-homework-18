@@ -1,5 +1,8 @@
 # Data Structures Homework 18
 
+Tests are found in test/
+all are passing
+
 I used non-sql ideas for this problem 
 
 How player is stored:
